@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: scheduler-log-app application
-Bundle-SymbolicName: scheduler-log-app.application
+Bundle-Name: sample-scheduler-app application
+Bundle-SymbolicName: sample-scheduler-app.application
 Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: TIBCO Software Inc.
 TIBCO-BW-Version: 2.8.2 V17 2023-05-19
