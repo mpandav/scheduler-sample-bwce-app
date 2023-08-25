@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: sample-scheduler-app application
+Bundle-Name: Sample-scheduler-app Application
 Bundle-SymbolicName: sample-scheduler-app.application
 Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: TIBCO Software Inc.
